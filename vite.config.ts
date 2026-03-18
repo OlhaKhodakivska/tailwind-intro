@@ -2,8 +2,8 @@ import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/tailwind-intro/',
   plugins: [
     tailwindcss(),
   ],
-});
+  base: '/tailwind-intro/',
+})
