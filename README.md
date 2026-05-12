@@ -16,16 +16,15 @@ This project was created to practice modern frontend development, responsive lay
 ## 🖥️ Desktop View
 
 <!-- Add desktop screenshot here -->
+<img width="1909" height="1110" alt="macaw" src="https://github.com/user-attachments/assets/44194216-f6e3-4642-a446-a2cf619f796e" />
 
-![Desktop Screenshot](./screenshots/macaw.png)
 
 ---
 
 ## 🖼️ Gallery Section
 
 <!-- Add gallery screenshot here -->
-
-![Gallery Screenshot](./screenshots/gallery_macaw.png)
+<img width="1836" height="896" alt="gallery_macaw" src="https://github.com/user-attachments/assets/dc80aeca-55c7-47ce-8f79-3a722e198d07" />
 
 ---
 
